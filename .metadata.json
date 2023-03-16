@@ -1,0 +1,14 @@
+[
+  {
+    "package": "chngpt",
+    "oncran": true
+  },
+  {
+    "package": "kyotil",
+    "oncran": true
+  },
+  {
+    "package": "marginalizedRisk",
+    "oncran": true
+  }
+]

@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "chngpt"]
+	path = chngpt
+	url = https://github.com/youyifong/chngpt
+	shallow = true
+	registered = true
+[submodule "kyotil"]
+	path = kyotil
+	url = https://github.com/youyifong/kyotil
+	shallow = true
+	registered = true
+[submodule "marginalizedRisk"]
+	path = marginalizedRisk
+	url = https://github.com/youyifong/marginalizedrisk
+	shallow = true
+	registered = true
