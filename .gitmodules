@@ -8,6 +8,16 @@
 	url = https://github.com/youyifong/chngpt
 	shallow = true
 	registered = true
+[submodule "FSDAM"]
+	path = FSDAM
+	url = https://github.com/cran/FSDAM
+	shallow = true
+	registered = true
+[submodule "krm"]
+	path = krm
+	url = https://github.com/cran/krm
+	shallow = true
+	registered = true
 [submodule "kyotil"]
 	path = kyotil
 	url = https://github.com/youyifong/kyotil
@@ -16,5 +26,20 @@
 [submodule "marginalizedRisk"]
 	path = marginalizedRisk
 	url = https://github.com/youyifong/marginalizedrisk
+	shallow = true
+	registered = true
+[submodule "mdw"]
+	path = mdw
+	url = https://github.com/cran/mdw
+	shallow = true
+	registered = true
+[submodule "robustrank"]
+	path = robustrank
+	url = https://github.com/cran/robustrank
+	shallow = true
+	registered = true
+[submodule "sptm"]
+	path = sptm
+	url = https://github.com/cran/sptm
 	shallow = true
 	registered = true
