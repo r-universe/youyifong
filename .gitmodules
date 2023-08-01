@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "chngpt"]
-	path = chngpt
-	url = https://github.com/youyifong/chngpt
 [submodule "FSDAM"]
 	path = FSDAM
 	url = https://github.com/cran/FSDAM
+[submodule "chngpt"]
+	path = chngpt
+	url = https://github.com/youyifong/chngpt
 [submodule "krm"]
 	path = krm
 	url = https://github.com/cran/krm
