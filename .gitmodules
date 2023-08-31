@@ -8,6 +8,9 @@
 [submodule "chngpt"]
 	path = chngpt
 	url = https://github.com/youyifong/chngpt
+[submodule "copcor"]
+	path = copcor
+	url = https://github.com/cran/copcor
 [submodule "krm"]
 	path = krm
 	url = https://github.com/cran/krm
