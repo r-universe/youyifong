@@ -26,6 +26,3 @@
 [submodule "robustrank"]
 	path = robustrank
 	url = https://github.com/cran/robustrank
-[submodule "sptm"]
-	path = sptm
-	url = https://github.com/cran/sptm
