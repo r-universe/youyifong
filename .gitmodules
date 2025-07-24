@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "FSDAM"]
 	path = FSDAM
-	url = https://github.com/cran/FSDAM
+	url = https://github.com/youyifong/fsdam
 [submodule "chngpt"]
 	path = chngpt
 	url = https://github.com/youyifong/chngpt
