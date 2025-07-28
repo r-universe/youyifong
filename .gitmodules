@@ -22,7 +22,7 @@
 	url = https://github.com/youyifong/marginalizedrisk
 [submodule "mdw"]
 	path = mdw
-	url = https://github.com/cran/mdw
+	url = https://github.com/youyifong/mdw
 [submodule "robustrank"]
 	path = robustrank
 	url = https://github.com/cran/robustrank
